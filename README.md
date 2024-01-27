@@ -25,7 +25,7 @@
 
 
 <h2>Deployment</h2>
-<p>Experience the project live at your-live-project-url.</p>
+<p>Experience the project live at <a href="https://kulkarnishrilakshmi.github.io/Recipe-Page/">Recipe Page</a></p>
 
 <h2>Knowledge Acquired</h2>
 <p>This project has been a journey of learning and growth, encompassing:</p>
